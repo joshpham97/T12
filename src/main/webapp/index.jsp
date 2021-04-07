@@ -59,7 +59,7 @@
 <div class="container">
     <div class="jumbotron">
         <div>
-            <h1>Welcome to The Games DB!</h1>
+            <h1>Welcome to SOEN487 Azure tutorial!</h1>
             <p>To get started, enter your details to register.
                 Or login to access your details, if you are already registered.</p>
         </div>
